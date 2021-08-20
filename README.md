@@ -1,4 +1,4 @@
-# saved_wifi
+# Saved_Wifi_Password
 
 In Window, When you request to connect any wifi with the correct password, it stores the wifi name and passwords in .xml file format.
 In order to securely store the password, the password is encrypted using window's credentials.
